@@ -1,16 +1,11 @@
-## Hi there 👋
+👋 Witaj na moim GitHubie!
+💻 Jestem studentem informatyki, pasjonatem niskopoziomowego programowania i systemów operacyjnych.
+🚀 Programuję głównie w C, C++, C# i Javie, interesuję się strukturami danych oraz algorytmami.
 
-<!--
-**adi211013/adi211013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Technologie, z którymi pracuję:
+C, C++
+C#
+Java
+Struktury danych i algorytmy
+Linux & terminal (bash, scripting)
+Systemy operacyjne
